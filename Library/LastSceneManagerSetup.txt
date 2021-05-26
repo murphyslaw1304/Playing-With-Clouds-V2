@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Playing With Clouds/Scenes/Playing With Clouds.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
