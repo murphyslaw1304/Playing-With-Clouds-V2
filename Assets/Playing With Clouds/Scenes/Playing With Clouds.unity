@@ -183,7 +183,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_Name
-      value: Cloud 4,5 (white)
+      value: Cloud 4,5 (black)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_RootOrder
@@ -442,7 +442,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 0.5
@@ -763,7 +763,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_Name
-      value: Cloud 5,5 (black)
+      value: Cloud 5,5 (white)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_RootOrder
@@ -847,7 +847,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1190437971}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2048232570}
@@ -916,7 +916,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2, y: -0.01, z: 4}
+  m_Size: {x: 2, y: 0.01, z: 4}
   m_Center: {x: 2, y: 0, z: 0}
 --- !u!65 &1190437978
 BoxCollider:
@@ -1330,7 +1330,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_Name
-      value: Cloud 4,4 (black)
+      value: Cloud 4,4 (white)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_RootOrder
@@ -1399,7 +1399,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_Name
-      value: Cloud 5,4 (white)
+      value: Cloud 5,4 (black)
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66b62323586a05541bdf731d7ce0497d, type: 3}
       propertyPath: m_RootOrder
